@@ -34,4 +34,6 @@ The `ui.py` is run using the below command
 python ui.py
 ```
 
+## NOTE ##
 
+Make sure to update the mysql username and password in the `main.py` under the config dictionary
